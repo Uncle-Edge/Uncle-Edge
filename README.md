@@ -1,4 +1,4 @@
-# Hello, I'm Uncle-EDGE 🛠️
+# Hello, I'm Uncle-Edge 🛠️
 
 I am a product manager working around IoT, edge hardware, and industrial AI.
 
